@@ -16,13 +16,13 @@ This repository is a growing garden of experiments shaped through different lang
 
 > This space is not about perfection — it’s about trying, creating, and letting ideas sprout.
 
-••• 
+---
 
 #Languages You May Find Here
 
 Python, HTML, CSS, JS and any language future brings.
 
-•••
+---
 
 #Purpose
 
@@ -30,21 +30,21 @@ The goal of this repository is simple:
 > Experiment. Learn. Grow.  
 A small corner to build freely — without limits, pressure, or polish.
 
-•••
+---
 
 #Structure (How files are organized)
 
 Files are grouped by idea/theme or language when needed.  
 Simple, minimal, and easy to explore.
 
-•••
+---
 
 #Contributing?
 
 This is a personal journey of learning, but suggestions are always welcome.  
 If something inspires you, feel free to share.
 
-•••
+---
 
 #Final Note
 
