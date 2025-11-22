@@ -50,3 +50,11 @@ If something inspires you, feel free to share.
 
 Some projects may look tiny, some incomplete, some unusual — and that’s the beauty.  
 Let creativity and curiosity lead the way.
+
+
+---
+
+Rock–Paper–Scissors (Python)- 
+>A tiny console game where you choose Rock, Paper, or Scissors and challenge Python.
+Built using simple condition logic, enums, and random choices.
+>python "RPS game.py"
