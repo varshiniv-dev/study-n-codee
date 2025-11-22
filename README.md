@@ -1,3 +1,4 @@
+![pic jpeg](https://github.com/user-attachments/assets/4ce03b50-158c-4df7-945e-c1b1d5ef6054)
 # soft-code-studio
 Tiny codes, small ideas, creative builds - a growing collection of experiments.
 
