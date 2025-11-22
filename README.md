@@ -34,3 +34,17 @@ A small corner to build freely — without limits, pressure, or polish.
 
 Files are grouped by idea/theme or language when needed.  
 Simple, minimal, and easy to explore.
+
+•••
+
+#Contributing?
+
+This is a personal journey of learning, but suggestions are always welcome.  
+If something inspires you, feel free to share.
+
+•••
+
+#Final Note
+
+Some projects may look tiny, some incomplete, some unusual — and that’s the beauty.  
+Let creativity and curiosity lead the way.
