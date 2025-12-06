@@ -1,69 +1,17 @@
-![pic png](https://github.com/user-attachments/assets/0e202f38-f669-44fd-ae6f-6afbc3428a26)
-
-# soft-code-studio
-Tiny codes, small ideas, creative builds - a growing collection of experiments.
-
-#Code Experiments Collection
-
-Tiny codes. Small ideas. Creative builds.  
-This repository is a growing garden of experiments shaped through different languages — from patterns to interactive pieces, from tiny utilities to playful logic.
-
-#What's Inside?
-
-• Mini projects, simple programs, visual patterns  
-• Practice files from different languages  
-• Creative logic mixed with basic programming concepts  
-• Experiments that may one day become something bigger
-
-> This space is not about perfection — it’s about trying, creating, and letting ideas sprout.
-
+# study-n-code 
+coding practice + college programs
 ---
+A simple and organized collection of my daily practice, college programs and small logical experiments.
 
-#Languages You May Find Here
+About- this repository is where i upload the programs i write on daily basis whether its for college, practice, or curiosity.
 
-Python, HTML, CSS, JS and any language future brings.
+Purpose- to stay consistent with coding by practicing daily and keeping my academic work well organized.
 
----
+Technology used- 
+Python, Java, C, C++, HTML, CSS, JS, small logic-building exercises
 
-#Purpose
-
-The goal of this repository is simple:
-> Experiment. Learn. Grow.  
-A small corner to build freely — without limits, pressure, or polish.
-
----
-
-#Structure (How files are organized)
-
-Files are grouped by idea/theme or language when needed.  
-Simple, minimal, and easy to explore.
-
----
-
-#Contributing?
-
-This is a personal journey of learning, but suggestions are always welcome.  
-If something inspires you, feel free to share.
-
----
-
-#Final Note
-
-Some projects may look tiny, some incomplete, some unusual — and that’s the beauty.  
-Let creativity and curiosity lead the way.
-
-
----
-
-Rock–Paper–Scissors (Python)- 
->A tiny console game where you choose Rock, Paper, or Scissors and challenge Python.
-Built using simple condition logic, enums, and random choices.
->python "RPS_game.py"
-
----
-
-Hogwarts House Quiz (Python Console Game)-
->A simple quiz that assigns you to a Hogwarts house based on your answers.
-Players respond to personality-based questions, and each choice increases house points.
-At the end, the house with the highest score is revealed!
->python "House_scores.py"
+Goal- 
+-> To build strong logic.
+-> To stay consistent.
+-> Track the progress over time.
+-> To maintain clean and readable code.
