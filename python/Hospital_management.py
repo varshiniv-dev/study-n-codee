@@ -1,3 +1,4 @@
+#Create a Hospital Management Model using classes: Patient, Doctor, Appointment. Demonstrate constructor, inheritance, polymorphism
 class Patient:
     def __init__(self, name, age):
         self.patient_name = name
