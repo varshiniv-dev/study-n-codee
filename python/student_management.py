@@ -1,3 +1,7 @@
+#Student Management System. Create a Student class with name, roll, marks. Add methods: display(), grade(). Accept details for 5 students and:
+#1.	Display all
+#2.	Find highest marks
+#3.	Display topper details
 class student:
     def __init__(self, name, roll, marks):
         self.name = name
