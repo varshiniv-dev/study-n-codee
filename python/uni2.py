@@ -1,3 +1,4 @@
+#Build a University Result Management System using: Base class Person. Derived class Student. Attributes: subject marks. Methods: calculate total, percentage, grade
 class Person:
     def __init__(self, name, age):
         self.name = name
