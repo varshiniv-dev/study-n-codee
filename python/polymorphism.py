@@ -1,3 +1,4 @@
+#Write a program to implement polymorphism using a common method name area() for: Class Circle . Class Square. Class Rectangle. Each class should compute its own area.
 class circle:
     def area(self, radius):
         return 3.14 * radius * radius
