@@ -1,3 +1,4 @@
+#Create a class BankAccount with: deposit(), withdraw(), check_balance() methods. Initialize balance through constructor . Perform operations for multiple users
 class BankAccount:
     def __init__(self, initial_balance=0):
         self.balance = initial_balance
