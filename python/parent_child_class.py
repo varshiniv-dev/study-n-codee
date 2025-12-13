@@ -1,3 +1,4 @@
+#Create a parent class Vehicle and a child class Car. Use constructor in both classes. Use super() to call parent constructor. Add a method to display details.
 class Vehicle:
     def __init__(self, make, model):
         self.make = make
