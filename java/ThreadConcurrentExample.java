@@ -24,9 +24,9 @@ class MyThread extends Thread {
 public class ThreadConcurrentExample {
 
     public static void main(String[] args) {
-        // Create an instance of MyThread 
-        MyThread myThread = new MyThread("Child Thread");
 
+// Create an instance of MyThread
+        MyThread myThread = new MyThread("Child Thread");
         // Main thread 
         for (int i = 1; i <= 5; i++) {
             System.out.println(Thread.currentThread().getName() + " Thread Count: " + i);
