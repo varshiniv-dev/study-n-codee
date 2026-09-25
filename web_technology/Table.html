@@ -1,0 +1,190 @@
+<!-- 2 Develop the HTML page named as “Table.html” to display your class time table.
+a) Provide the title as Time Table with table header and table footer, row-span and col-span etc.
+b) Provide various colour options to the cells (Highlight the lab hours and elective hours with different
+colours.)
+c) Provide colour options for rows.-->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Time Table</title>
+</head>
+
+<body>
+
+<!-- College Heading -->
+
+<center>
+    <h1>G. MADEGOWDA INSTITUTE OF TECHNOLOGY</h1>
+    <h3>BHARATHINAGARA, MADDUR TQ., MANDYA DIST. - 571 422</h3>
+    <h2>DEPARTMENT OF COMPUTER SCIENCE ENGINEERING</h2>
+
+    <h2>SEMESTER: V &nbsp;&nbsp;&nbsp;&nbsp;
+        TIME TABLE (2026-2027)
+        &nbsp;&nbsp;&nbsp;&nbsp; ROOM NO. - 125
+    </h2>
+</center>
+
+
+<!-- MAIN TIME TABLE -->
+
+<table border="1" width="100%" cellpadding="8" cellspacing="0">
+
+    <!-- Time Header -->
+    <tr bgcolor="lightgray">
+
+        <th>DAY/TIME</th>
+
+        <th>9.30-<br>10.25</th>
+
+        <th>10.25-<br>11.20</th>
+
+        <th>11.20-<br>11.35</th>
+
+        <th>11.35-<br>12.30</th>
+
+        <th>12.30-<br>1.25</th>
+
+        <th>1.25-<br>2.10</th>
+
+        <th>2.10-<br>3.05</th>
+
+        <th>3.05-<br>4.00</th>
+
+        <th>4.00-<br>4.55</th>
+
+    </tr>
+
+
+    <!-- MONDAY -->
+
+    <tr>
+        <th>MONDAY</th>
+
+        <td>CN</td>
+        <td>UNIX</td>
+
+        <!-- Tea Break -->
+        <td rowspan="5" bgcolor="lightyellow">
+            <b><i>TEA<br>BREAK</i></b>
+        </td>
+
+        <td>SE</td>
+        <td>TOC</td>
+
+        <!-- Lunch -->
+        <td rowspan="6" bgcolor="orange">
+            <b><i>LUNCH</i></b>
+        </td>
+
+        <td>RM</td>
+        <td>EVS</td>
+        <td>NSS</td>
+    </tr>
+
+
+    <!-- TUESDAY -->
+
+    <tr>
+        <th>TUESDAY</th>
+
+        <td>TOC</td>
+        <td>SE</td>
+
+        <td>UNIX</td>
+        <td>CN</td>
+
+        <td colspan="3" bgcolor="lightpink">
+            <b>CN LAB/WEB LAB</b><br>
+            <small>(SS/CG LAB)</small>
+        </td>
+    </tr>
+
+
+    <!-- WEDNESDAY -->
+
+    <tr>
+        <th>WEDNESDAY</th>
+
+        <td>CN</td>
+        <td>RM</td>
+
+        <td colspan="2" bgcolor="lightblue">
+            <b>MINI PROJECT</b><br>
+            <small>(PYTHON/DBMS LAB)</small>
+        </td>
+
+        <td>TOC</td>
+        <td>SE</td>
+        <td>NPTEL</td>
+    </tr>
+
+
+    <!-- THURSDAY -->
+
+    <tr>
+        <th>THURSDAY</th>
+
+        <td>UNIX</td>
+        <td>RM</td>
+
+        <td>TOC</td>
+        <td>UNIX</td>
+
+        <td colspan="3" bgcolor="lightpink">
+            <b>WEB LAB / CN LAB</b><br>
+            <small>(PYTHON/SS LAB)</small>
+        </td>
+    </tr>
+
+
+    <!-- FRIDAY -->
+
+    <tr>
+        <th>FRIDAY</th>
+
+        <td>RM</td>
+        <td>CN</td>
+
+        <td>TOC</td>
+        <td>SE</td>
+
+        <td>UNIX</td>
+        <td>SE</td>
+        <td>SPORTS</td>
+    </tr>
+
+
+    <!-- SATURDAY -->
+
+    <tr>
+        <th>SATURDAY</th>
+
+        <td colspan="5" bgcolor="lightgreen">
+            <b>TECHNICAL TRAINING</b>
+            <small>(DBMS / SS LAB)</small>
+        </td>
+
+        <td>RM</td>
+        <td>CN</td>
+        <td></td>
+    </tr>
+
+</table>
+
+
+<br><br>
+
+
+
+<table width="70%" align="center">
+    <tr>
+        <td align="left"><b>HOD</b></td>
+        <td align="right"><b>PRINCIPAL</b></td>
+    </tr>
+</table>
+
+</body>
+</html>
